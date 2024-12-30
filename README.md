@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=3376FF&background=FFF7EE6A&center=true&vCenter=true&width=450&lines=Hello+World+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=60&pause=1000&color=3376FF&background=FFF7EE6A&center=true&vCenter=true&width=450&height=300&lines=Hello+World+!)](https://git.io/typing-svg)
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
