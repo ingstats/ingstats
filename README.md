@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=360&text=Hello+World%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=318DF7&center=true&vCenter=true&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
