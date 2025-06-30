@@ -49,6 +49,15 @@
 </div>
 <br>
 
+<!-- 백준 티어 (Baekjoon) -->
+
+<h2><strong>🏆 Solved.ac</strong></h2>
+<a href="https://solved.ac/[백준 ID]">
+<img src="https://www.google.com/search?q=http://mazassumnida.wtf/api/v2/generate_badge%3Fboj%3D[백준 ID]" />
+</a>
+<br>
+<br>
+
 <!-- GitHub 통계 (GitHub Stats) -->
 
 <h2><strong>📈 GitHub Stats</strong></h2>
