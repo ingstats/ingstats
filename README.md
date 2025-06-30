@@ -20,7 +20,7 @@
 <a href="https://www.google.com/search?q=https://github.com/ingstats" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
-<a href="mailto:[이메일 주소]" target="_blank">
+<a href="mailto:dahee7446@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="[블로그 또는 포트폴리오 링크]" target="_blank">
@@ -52,9 +52,8 @@
 <!-- 백준 티어 (Baekjoon) -->
 
 <h2><strong>🏆 Solved.ac</strong></h2>
-<a href="https://solved.ac/[백준 ID]">
-<img src="https://www.google.com/search?q=http://mazassumnida.wtf/api/v2/generate_badge%3Fboj%3D[백준 ID]" />
-</a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahee7446)](https://solved.ac/dahee7446/)
+
 <br>
 <br>
 
